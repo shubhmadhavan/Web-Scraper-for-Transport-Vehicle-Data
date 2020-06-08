@@ -1,0 +1,2 @@
+# Web-Scraper-for-Transport-Vehicle-Data
+This repository contains a web scraper for the site "CarsDekho.com" that extracts data on 94 parameters for around 422 trucks that are active on Indian highways. The tools used are Python's BeautifulSoup, Numpy, Pandas and Regex Library. This was done as a part of my 6-week Internship at Loadshare Networks, a Series B startup, during the COVID-19 Pandemic. 
